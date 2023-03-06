@@ -3,7 +3,7 @@ HWID Spoofer 💡
 </h1>
 
 <p align="center">
-  Remove HardwareID & Changed Serial Numners
+  Remove HardwareID & Changed Serial Numbers
 </p>
 
 
